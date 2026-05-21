@@ -15,9 +15,10 @@ Calculate ATS score
 Match resumes with job descriptions
 Provide improvement suggestions
 Generate professional feedback
-
+<br>
 
 ✨ Features
+<br>
 🔹 Resume Analysis
 Upload PDF/DOCX resumes
 ATS score calculation
@@ -27,6 +28,7 @@ Experience analysis
 Education detection
 Project analysis
 Keyword matching
+<br>
 🔹 AI Features
 LLM-powered feedback
 AI resume suggestions
@@ -34,6 +36,7 @@ Job description matching
 Semantic search
 Context understanding
 NLP-based analysis
+<br>
 🔹 User Features
 Drag & drop upload
 Dashboard UI
